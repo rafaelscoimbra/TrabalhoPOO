@@ -12,6 +12,7 @@ public class Teste {
 		al.nome = "Rafael";
 		al.idade = 25;
 		System.out.println(al.nome + " " + al.idade);
+		System.out.println("Editei aqui via web!");
 	}
 
 }
